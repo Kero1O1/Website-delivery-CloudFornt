@@ -2,7 +2,7 @@
 
 # Website Delivery with CloudFront
 
-**Project Link:** [View Project](https://nextwork.ai/projects/c1513937-a6bf-53e9-9512-a7d466c0e79c)
+**Project Link:** [View Project](https://nextwork.ai/kero/docs/c1513937-a6bf-53e9-9512-a7d466c0e79c)
 
 **Author:** Kerolos Isaac
 
